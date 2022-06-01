@@ -1,0 +1,23 @@
+D:\Документы\4 курс\IT Notes\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\IT Notes.csproj.AssemblyReference.cache
+D:\Документы\4 курс\IT Notes\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\IT Notes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\4 курс\IT Notes\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Документы\4 курс\IT Notes\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\Views\Pages\pEditNote.xaml.g.cs
+D:\Документы\4 курс\IT Notes\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\Views\Pages\pStartPage.xaml.g.cs
+D:\Документы\4 курс\IT Notes\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\IT Notes.AssemblyInfoInputs.cache
+D:\Документы\4 курс\IT Notes\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\IT Notes.AssemblyInfo.cs
+D:\Документы\4 курс\IT Notes\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\IT Notes.csproj.CoreCompileInputs.cache
+D:\Prog\C#\Xamarin\IT Notes\Frontend\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\IT Notes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog\C#\Xamarin\IT Notes\Frontend\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Prog\C#\Xamarin\IT Notes\Frontend\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\Views\Pages\pEditNote.xaml.g.cs
+D:\Prog\C#\Xamarin\IT Notes\Frontend\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\Views\Pages\pStartPage.xaml.g.cs
+D:\Prog\C#\Xamarin\IT Notes\Frontend\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\IT Notes.AssemblyInfoInputs.cache
+D:\Prog\C#\Xamarin\IT Notes\Frontend\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\IT Notes.AssemblyInfo.cs
+D:\Prog\C#\Xamarin\IT Notes\Frontend\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\IT Notes.csproj.CoreCompileInputs.cache
+D:\Prog\C#\Xamarin\IT Notes\Frontend\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\IT Notes.dll
+D:\Prog\C#\Xamarin\IT Notes\Frontend\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\ref\IT Notes.dll
+D:\Prog\C#\Xamarin\IT Notes\Frontend\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\IT Notes.pdb
+D:\Prog\C#\Xamarin\IT Notes\Frontend\IT Notes\IT Notes\IT Notes\bin\Debug\netstandard2.0\IT Notes.deps.json
+D:\Prog\C#\Xamarin\IT Notes\Frontend\IT Notes\IT Notes\IT Notes\bin\Debug\netstandard2.0\IT Notes.dll
+D:\Prog\C#\Xamarin\IT Notes\Frontend\IT Notes\IT Notes\IT Notes\bin\Debug\netstandard2.0\ref\IT Notes.dll
+D:\Prog\C#\Xamarin\IT Notes\Frontend\IT Notes\IT Notes\IT Notes\bin\Debug\netstandard2.0\IT Notes.pdb
+D:\Prog\C#\Xamarin\IT Notes\Frontend\IT Notes\IT Notes\IT Notes\obj\Debug\netstandard2.0\XamlC.stamp

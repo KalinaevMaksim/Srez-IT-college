@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IT_Notes.Views.Pages.pStartPage"
+             x:Name="PStartPage"
+             NavigationPage.HasNavigationBar="False"
+             Appearing="PStartPage_Appearing">
+    <ContentPage.Content>
+        <Grid RowDefinitions="*, auto">
+            <ListView x:Name="LstVNotes" ItemsSource="{Binding Notes}" BackgroundColor="{StaticResource BackColor}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid ColumnDefinitions="*, 2*, *" HeightRequest="50" Margin="5">
+                                <Grid BackgroundColor="{StaticResource DefaultColor}">
+                                    <Image x:Name="ImgNote" Source="{Binding photo}"/>
+
+                                    <Label Text="Фото" HorizontalOptions="Center" VerticalOptions="Center"/>
+                                </Grid>
+
+                                <Grid Grid.Column="1" BackgroundColor="{StaticResource AdditionalColor}">
+                                    <Label Text="{Binding id, StringFormat='Заметка {0}'}" HorizontalOptions="Center" VerticalOptions="Center"/>
+                                </Grid>
+
+                                <Button x:Name="BtnDeleteNote" Grid.Column="2" Text="Удалить" CommandParameter="{Binding}" Clicked="BtnDeleteNote_Clicked"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Grid Grid.Row="1" ColumnDefinitions="*, *, *" Margin="5, 50, 5, 5">
+                <Button x:Name="BtnAddNote" Text="Добавить" Clicked="BtnAddNote_Clicked"/>
+                <Button x:Name="BtnEditNote" Grid.Column="2" Text="Изменить" Clicked="BtnEditNote_Clicked"/>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
